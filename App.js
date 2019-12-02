@@ -10,7 +10,8 @@ import {
   Dimensions,
   ScrollView,
   TouchableOpacity,
-  Animated
+  Animated,
+  PanResponder
 } from "react-native";
 
 import User from "./components/User";
